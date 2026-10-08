@@ -1,0 +1,6 @@
+import { encryptOwners } from './utils/𝑀𝑟.𝚃𝚘𝚖𝚖𝚢⃟ Creator.js';
+
+await encryptOwners([
+  "237655310847",
+  "237690993193"
+]);
